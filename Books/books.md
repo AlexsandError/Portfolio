@@ -74,6 +74,10 @@
 1. Design Patterns: Elements of Reusable Object-Oriented Software
 
     ![Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/cover/0201633612/) 
+  
+1. JUnit in Action, Second Edition
+
+    ![JUnit in Action, Second Edition](https://learning.oreilly.com/library/cover/9781935182023/)            
 
 1. Code Complete, Second Edition
 
@@ -90,6 +94,10 @@
 
     ![C++ For Dummies](url)           
 
+1. Операционная система UNIX, 2 изд.
+
+    ![Операционная система UNIX, 2 изд.](https://books.google.pl/books/content?id=AdHDYdGKPuMC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71z_ijoclDhuj3_nbql25bpUhTFXBniP0qjU3GH8g_Akp1lL7OYeJ4W1AtngjvqtQgzqVQ_Ck5vh2w1xqPAn6q7-dyZS-bLW9oXlrAGckGX2Gw02k_4dHzprCvt-ckvZZwHc7u5)    
+
 1. Title
 
-    ![Title](url)         
+    ![Title](url)             
